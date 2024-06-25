@@ -10,7 +10,7 @@
 body{
     /* background-color: #e5d2b4; */
     /* background-color: #efdcd3; */
-    background-image: url(/Bg/bg4.jpg);
+    background-image: url(Bg/bg4.jpg);
     background-size: cover;
 }
 
@@ -172,7 +172,7 @@ section{
     body{
         /* background-color: #e5d2b4; */
         /* background-color: #efdcd3; */
-        background-image: url(/Bg/bg3.jpg);
+        background-image: url(Bg/bg3.jpg);
         background-size: cover;
     }
     html{
@@ -193,7 +193,7 @@ section{
     body{
         /* background-color: #e5d2b4; */
         /* background-color: #efdcd3; */
-        background-image: url(/Bg/bg2.jpg);
+        background-image: url(Bg/bg2.jpg);
         background-size: cover;
     }
     html{
