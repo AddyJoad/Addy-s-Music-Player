@@ -10,7 +10,7 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems =  Array.from(document.getElementsByClassName('songItem'));
 let songs = [
     {songName: "Meri Kahani - Atif Aslam", filePath:"songs/1.mp3" , coverPath:"covers/1.jpg"},
-    {songName: "Arziyan - Kailash Kher", filePath:"songs/2.mp3" , coverPath:"covers/2.jpg"},
+    {songName: "Kahani Suno - Kaifi Khalil", filePath:"songs/2.mp3" , coverPath:"covers/2.jpg"},
     {songName: "Beetein Lamhe- KK", filePath:"songs/3.mp3" , coverPath:"covers/3.jpg"},
     {songName: "Dil Iabadat - KK", filePath:"songs/4.mp3" , coverPath:"covers/4.jpg"},
     {songName: "Zaroori Tha - RFAK", filePath:"songs/5.mp3" , coverPath:"covers/5.jpg"},
